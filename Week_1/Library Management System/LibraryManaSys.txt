@@ -1,0 +1,74 @@
+Linear Search
+
+Concept: Linear search is a straightforward search algorithm that checks every element in a list or array sequentially until the target element is found or the end of the list is reached.
+
+Steps:
+1. Start at the beginning of the list.
+2. Compare the target element with the current element of the list.
+3. If they match, return the index or the element (depending on the implementation).
+4. If not, move to the next element.
+5. Repeat steps 2-4 until the end of the list is reached.
+6. If the target element is not found by the end of the list, return `null` or indicate that the element is not present.
+
+Time Complexity: O(n), where n is the number of elements in the list. This means in the worst case, the algorithm may need to check every element.
+
+Example:
+Suppose you have an array `[3, 5, 7, 9, 11]` and you are searching for the element `7`. Linear search will start from `3`, then check `5`, then `7`, and will find `7` in the third position.
+
+Binary Search
+
+Concept: Binary search is a more efficient search algorithm that works on a sorted list or array. It repeatedly divides the search interval in half, comparing the target value to the middle element of the interval, until the target is found or the interval is empty.
+
+Steps:
+1. Start with the entire sorted list.
+2. Find the middle element of the list.
+3. Compare the target element with the middle element:
+   - If they match, return the index or the element.
+   - If the target is less than the middle element, narrow the search to the lower half of the list.
+   - If the target is greater than the middle element, narrow the search to the upper half of the list.
+4. Repeat steps 2-3 with the narrowed list until the target is found or the list is empty.
+
+Time Complexity: O(log n), where n is the number of elements in the list. This means that binary search is much faster than linear search for large lists because it reduces the search space by half each time.
+
+Example:
+Suppose you have a sorted array `[3, 5, 7, 9, 11]` and you are searching for the element `7`. Binary search will first check the middle element (which is `7`), and since it matches the target, the search is successful.
+
+Time Complexity Comparison
+
+Linear Search:
+- Time Complexity: O(n)
+- Explanation: In the worst case, you may need to check each element in the list. If there are `n` elements, you may need to perform `n` comparisons.
+  
+Binary Search:
+-Time Complexity: O(log n)
+-Explanation: Binary search works by repeatedly dividing the search space in half. With each step, it reduces the search interval, so the number of comparisons needed grows logarithmically with the number of elements.
+
+When to Use Each Algorithm
+
+Linear Search:
+Use Case:
+Unsorted Data: Linear search does not require the data to be sorted, so it can be used on any unsorted list or array.
+  Small Data Sets: For small lists or arrays, the difference in performance between linear search and binary search may be negligible.
+  Infrequent Searches: If searching is infrequent and the data is small, the simplicity of linear search can be advantageous.
+
+Pros:
+  - Simple to implement.
+  - Works on both sorted and unsorted lists.
+
+Cons:
+  -Inefficient for large datasets due to its O(n) time complexity.
+  -As the size of the dataset grows, the performance degrades linearly.
+
+Binary Search:
+Use Case:
+  Sorted Data: Binary search requires that the data be sorted. It cannot be used on unsorted data unless the data is sorted first.
+  Large Data Sets: For large datasets, binary search is significantly faster due to its O(log n) time complexity.
+  Frequent Searches: When searches are performed frequently on a static (non-changing) sorted dataset, binary search provides better performance.
+
+Pros
+  - Much faster for large datasets compared to linear search.
+  - Efficient for search operations on sorted data.
+
+Cons:
+  - Requires sorted data, which may involve an initial sorting step if the data is not already sorted.
+  - More complex to implement compared to linear search.
