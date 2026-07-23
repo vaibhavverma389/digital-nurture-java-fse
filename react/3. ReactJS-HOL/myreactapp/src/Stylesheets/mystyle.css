@@ -1,0 +1,30 @@
+.score-container {
+  border: 2px solid #333;
+  padding: 20px;
+  margin: 20px auto;
+  width: 350px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#score {
+  color: darkmagenta;
+}
+
+#name {
+  color: blue;
+}
+
+#school {
+  color: crimson;
+}
+
+#total {
+  color: darkorange;
+}
+
+#avg {
+  color: green;
+}
