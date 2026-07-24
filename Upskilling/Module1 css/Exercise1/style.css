@@ -1,0 +1,19 @@
+
+.heading {
+    color: blue;
+    text-align: center;
+    font-size: 28px;
+}
+
+
+.content {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
