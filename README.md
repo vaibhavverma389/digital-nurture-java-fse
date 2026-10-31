@@ -4,15 +4,15 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-Eureka%20%7C%20Gateway%20%7C%20Feign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-cloud)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![MySQL](https://img.shields.io/badge/Database-Oracle_PL%2FSQL%20%7C%20MySQL%20%7C%20H2-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JUnit 5](https://img.shields.io/badge/Testing-JUnit_5%20%7C%20Mockito%20%7C%20Jest-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Database](https://img.shields.io/badge/Database-Oracle_PL%2FSQL%20%7C%20MySQL%20%7C%20H2-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Testing](https://img.shields.io/badge/Testing-JUnit_5%20%7C%20Mockito%20%7C%20Jest%20%7C%20Selenium-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-## 👤 Author Profile
+## Author Profile
 
-| Attribute | Details |
+| Field | Details |
 | :--- | :--- |
 | **Name** | **Vaibhav Verma** |
 | **SuperSet ID** | **6823384** |
@@ -23,29 +23,56 @@
 
 ---
 
-## 📌 Executive Program Overview
+## Executive Program Overview
 
-This repository contains the complete portfolio of hands-on exercises, industry-aligned mini-projects, enterprise microservices architectures, full-stack web applications, and database engineering scripts completed during the **Digital Nurture Java Full Stack Engineering (FSE)** curriculum.
+This repository contains the complete portfolio of hands-on exercises, industry-aligned mini-projects, cloud-native microservices architectures, full-stack web applications, database engineering scripts, and professional certifications completed during the **Digital Nurture Java Full Stack Engineering (FSE)** curriculum.
 
-The repository spans **11 comprehensive modules** encompassing:
-1. **Core Java & Data Structures & Algorithms (DSA)**: Algorithm complexity analysis, searching, sorting, and custom linear data structures.
-2. **Software Design Patterns & SOLID Principles**: GoF Creational, Structural, and Behavioral patterns implemented with real-world scenarios.
-3. **Relational Database Design & Oracle PL/SQL**: 870+ lines of enterprise banking schema, stored procedures, triggers, functions, cursors, and modular packages.
-4. **Spring Framework Core & Spring Boot Fundamentals**: IoC Container, Dependency Injection, Spring AOP execution profiling, and Maven build automation.
-5. **Spring Data JPA, Hibernate, Projections & Caching**: Entity relations, JPQL/native queries, DTO projections, Hibernate L2 caching, and auditing.
-6. **Enterprise REST APIs, Spring Security & Documentation**: RESTful CRUD with Spring Boot 3, MapStruct DTOs, Bean Validation, HATEOAS hypermedia, OpenAPI 3/Swagger, JWT authentication, and Actuator metrics.
-7. **Cloud-Native Microservices Architecture**: Service Registry (Eureka), API Gateway, dynamic routing, load balancing, and multi-service orchestration.
-8. **Microservices Resilience & Enterprise Testing Suite**: Spring Security OAuth2/JWT, Spring Cloud OpenFeign inter-service communication, Config Server, Resilience4j Circuit Breakers, and distributed tracing.
-9. **Full-Stack Upskilling Track**: 10 HTML5 modules, 11 CSS3 exercises, 14 JavaScript ES6+ modules, 25 advanced SQL queries, and 39 Core & Modern Java deep dives (Virtual Threads, Records, Pattern Matching, Reflection, TCP Sockets, JDBC Transactions).
-10. **React.js Frontend Development**: 19 progressive Hands-on Labs spanning component hierarchies, JSX, state, hooks, Context API, controlled forms, Axios REST clients, and Jest/RTL unit tests.
-11. **Git Version Control Hands-on Labs**: 5 labs covering repository setup, .gitignore, branching workflows, three-way merge conflict resolution, and remote tracking.
+The repository spans **12 comprehensive modules & asset tracks**:
+1. **Certifications & Accreditations**: 8 industry certifications covering Generative AI, Agentic AI, Prompt Engineering, React, Selenium Automation, GitHub Copilot, and Agile Methodologies.
+2. **Core Java & Data Structures & Algorithms (DSA)**: Algorithmic complexity analysis ($O(1)$, $O(\log n)$, $O(n)$, $O(n \log n)$, $O(n^2)$), searching, sorting, and custom linear data structures.
+3. **Software Design Patterns & SOLID Principles**: GoF Creational, Structural, and Behavioral patterns implemented with real-world scenarios.
+4. **Relational Database Design & Oracle PL/SQL**: 870+ lines of enterprise banking schema, stored procedures, triggers, functions, cursors, and modular packages.
+5. **Spring Framework Core & Spring Boot Fundamentals**: IoC Container, Dependency Injection, Spring AOP execution profiling, and Maven build automation.
+6. **Spring Data JPA, Hibernate, Projections & Caching**: Entity relations, JPQL/native queries, DTO projections, Hibernate L2 caching, and auditing.
+7. **Enterprise REST APIs, Spring Security & Documentation**: RESTful CRUD with Spring Boot 3, MapStruct DTOs, Bean Validation, HATEOAS hypermedia, OpenAPI 3/Swagger, JWT authentication, and Actuator metrics.
+8. **Cloud-Native Microservices Architecture**: Service Registry (Eureka), API Gateway, dynamic routing, load balancing, and multi-service orchestration.
+9. **Microservices Resilience & Enterprise Testing Suite**: Spring Security OAuth2/JWT, Spring Cloud OpenFeign inter-service communication, Config Server, Resilience4j Circuit Breakers, and distributed tracing.
+10. **Full-Stack Upskilling Track**: 10 HTML5 modules, 11 CSS3 exercises, 14 JavaScript ES6+ modules, 25 advanced SQL queries, and 39 Core & Modern Java deep dives (Virtual Threads, Records, Pattern Matching, Reflection, TCP Sockets, JDBC Transactions).
+11. **React.js Frontend Development**: 19 progressive Hands-on Labs spanning component hierarchies, JSX, state, hooks, Context API, controlled forms, Axios REST clients, and Jest/RTL unit tests.
+12. **Git Version Control Hands-on Labs**: 5 labs covering repository setup, .gitignore, branching workflows, three-way merge conflict resolution, and remote tracking.
 
 ---
 
-## 🏗️ Repository Architecture & Directory Structure
+## Professional Certifications & Accreditations
+
+The `Certifications/` directory contains official credentials and certifications achieved by **Vaibhav Verma**:
+
+| # | Certification Title | Domain | Document Link |
+| :-: | :--- | :--- | :--- |
+| 1 | **Frontend React Engineer [101-BASIC]** | Frontend Engineering & React.js | [View Certificate](Certifications/Vaibhav_verma_Frontend_React_Engineer_[101-BASIC].pdf) |
+| 2 | **Introduction to Agentic AI** | Artificial Intelligence & Autonomous Agents | [View Certificate](Certifications/Vaibhav_verma_Introduction_to_Agentic_AI.pdf) |
+| 3 | **Foundations of Modern AI** | Machine Learning & AI Principles | [View Certificate](Certifications/Vaibhav_verma_Foundations_of_Modern_AI.pdf) |
+| 4 | **Fundamentals of Generative AI** | Generative Models & LLM Foundations | [View Certificate](Certifications/Vaibhav_verma_FUNDAMENTALS_OF_GENERATIVE_AI.pdf) |
+| 5 | **Prompt Engineering Foundation** | Generative AI & Prompt Design | [View Certificate](Certifications/Vaibhav_verma_Prompt_Engineering_Foundation.pdf) |
+| 6 | **GitHub Copilot Fundamentals Virtual Training** | AI-Assisted Software Development | [View Certificate](Certifications/Vaibhav_verma_GitHub_Copilot_Fundamentals_Virtual_Training.pdf) |
+| 7 | **Selenium Interactive Course [101-BASIC]** | Automated Quality Assurance & Testing | [View Certificate](Certifications/Vaibhav_verma_Selenium_Interactive_Course_[101-BASIC].pdf) |
+| 8 | **ITPM - Introduction to Agile [101-Basics]** | Agile Project Management & Scrum | [View Certificate](Certifications/Vaibhav_verma_ITPM_-_Introduction_to_Agile_[101-Basics].pdf) |
+
+---
+
+## Repository Architecture & Directory Structure
 
 ```text
 digital-nurture-java-fse/
+├── Certifications/                     # Official Professional Certification Documents
+│   ├── Vaibhav_verma_Foundations_of_Modern_AI.pdf
+│   ├── Vaibhav_verma_Frontend_React_Engineer_[101-BASIC].pdf
+│   ├── Vaibhav_verma_FUNDAMENTALS_OF_GENERATIVE_AI.pdf
+│   ├── Vaibhav_verma_GitHub_Copilot_Fundamentals_Virtual_Training.pdf
+│   ├── Vaibhav_verma_Introduction_to_Agentic_AI.pdf
+│   ├── Vaibhav_verma_ITPM_-_Introduction_to_Agile_[101-Basics].pdf
+│   ├── Vaibhav_verma_Prompt_Engineering_Foundation.pdf
+│   └── Vaibhav_verma_Selenium_Interactive_Course_[101-BASIC].pdf
 ├── Git/                                # Git Version Control Hands-on Labs (HOL 1-5)
 │   ├── 1. Git-HOL/                     # Config, init, add, commit, remote origin, push/pull
 │   ├── 2. Git-HOL/                     # .gitignore rules for logs and build directories
@@ -118,7 +145,7 @@ digital-nurture-java-fse/
 
 ---
 
-## 🧩 Detailed Module Documentation
+## Detailed Module Documentation
 
 ### Module 1: Week 1 — Data Structures & Algorithms (Core Java)
 
@@ -478,7 +505,7 @@ Located in `Git/`, these 5 labs capture real-world Git operations:
 
 ---
 
-## 🚀 Setup & Execution Guide
+## Setup & Execution Guide
 
 ### Prerequisites
 
@@ -611,10 +638,11 @@ npm test -- --watchAll=false
 
 ---
 
-## 🧪 Comprehensive Verification & Integrity Checklist
+## Comprehensive Verification & Integrity Checklist
 
 Every project, source file, configuration, and unit test across this repository has been verified:
 
+- [x] **Professional Certifications**: 8 official PDF certificates extracted and integrated into `Certifications/`.
 - [x] **Git Version Control**: All 5 hands-on lab scripts and `.gitignore` configurations checked.
 - [x] **Week 1 DSA**: All 7 projects verified for algorithmic accuracy, bounds checking, and complexity.
 - [x] **Week 2 Design Patterns**: All 9 GoF patterns and Dependency Injection verified with working test harnesses.
@@ -629,7 +657,7 @@ Every project, source file, configuration, and unit test across this repository 
 
 ---
 
-## 📜 License
+## License
 
 This repository is maintained for academic and professional assessment purposes under the **Digital Nurture Java Full Stack Engineering** curriculum. All rights reserved.
 
